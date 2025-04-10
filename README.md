@@ -8,6 +8,9 @@ A basic, user-friendly web application that lets users navigate through a playli
 - CSS3
 - JavaScript
 
+## Demo Preview
+![Demo](Demo.png)
+
 ## Features
 - Play/Pause functionality
 - Next and Previous video navigation
